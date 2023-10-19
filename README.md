@@ -1,8 +1,8 @@
-# Qr-code-reader
+
 
 # Installation
 
-Open CMD (Command Prompt) and download
+In CMD (Command Prompt)
 
 
 Step-1. pip install opencv-python
